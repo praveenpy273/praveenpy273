@@ -1,6 +1,6 @@
 - 👋 Hi There!
 ```python
- I am 'Praveen Paliwal'
+ This is Praveen Paliwal
 👀 I’m interested in getting into coding with Python
 💞️ I’m looking to collaborate on my exercises
 📫 How to reach me -Contact me on praveenpaliwal273@gmail.com
